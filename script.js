@@ -345,7 +345,7 @@ function startPhotoShow() {
     const photos = [
         {
             text: 'Our First Date 💕',
-            image: './images/photo1.jpg'
+            image: 'photo1.jpg'
         },
         {
             text: 'cutie',
