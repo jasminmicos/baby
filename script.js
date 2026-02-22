@@ -349,23 +349,23 @@ function startPhotoShow() {
         },
         {
             text: 'cutie',
-            image: './images/photo2.jpg'
+            image: 'photo2.jpg'
         },
         {
             text: 'Hindi na discord stream lol 🌟',
-            image: './images/photo3.jpg'
+            image: 'photo3.jpg'
         },
         {
             text: '❤️',
-            image: './images/photo4.jpg'
+            image: 'photo4.jpg'
         },
         {
             text: '🥰',
-            image: './images/photo5.jpg'
+            image: 'photo5.jpg'
         },
         {
             text: 'wow wow my baby 🥹',
-            image: './images/photo6.jpg'
+            image: 'photo6.jpg'
         },
         {
             text: 'Perfect Day ☀️',
@@ -373,7 +373,7 @@ function startPhotoShow() {
         },
         {
             text: 'fav 💖',
-            image: './images/photo8.jpg'
+            image: 'photo8.jpg'
         }
     ];
     
