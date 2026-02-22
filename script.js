@@ -224,19 +224,18 @@ function startTypewriter() {
     if (!messageContent) return;
     
     const fullMessage = `Hi baby,
-I honestly don’t know where to start. This is the first time I’m writing you a letter like this. Yung mga nasulat ko kasi noon about sayo pang broken eh hahaha, I mean never something this sincere, this hopeful. But this one feels different.
-I really wanted to give this to you in person. You know I had a plan naman talaga sabi ko nga sayo. I even wanted it to be on the 22nd, you know why. I was planning to drop by today, even just for a little while, pero yun nga dahil sa injury ko, I couldn’t. I just couldn’t delay this any longer. I didn’t want to wait another day without telling you how I feel.
+I honestly don’t know where to start. This is the first time I’m writing you a letter like this. Yung mga nasulat ko kasi noon about sayo pang broken eh hahaha, I mean iba naman this time like ano something sincere, hopeful. 
+I really wanted to give this to you in person. You know I had a plan naman talaga sabi ko nga sayo. Gusto ko 22, lam mo na kung baqet. I was planning to drop by today, even just for a little while, pero yun nga dahil sa injury ko, I couldn’t. I just couldn’t delay this any longer. I didn’t want to wait another day without telling you how I feel.
 I want you. And I love you.
 
-I’m sorry it took me this long to say it. Sa totoo lang, I’m not afraid to express what I feel. But this is you. 
+I’m sorry it took me this long to say it. Sa totoo lang, I’m not afraid to express what I feel. Pero ikaw yan e. You matter so much to me. I didn’t want to mess this up, especially after waiting for you for so long. This time, whatever this is between us, I truly want it to work.
+It’s not that I wasn’t ready. I just wanted you to really know me, all of me. I know you have your own impression of who I am, and ano gusto ko lang talaga mas makilala mo ko. I just wanted you to know every side of me. Not just the version you see, but the real one, the flawed, overthinking, sometimes scared, but deeply sincere me.
+I’ve never imagined I could admire someone for this long, even from afar(hahaha?). That has never happened to me before.  Pero ayun boogsh haha. And now finally, feeling ko eto na yun (feelingera? lol).
 
-You matter so much to me. I didn’t want to mess this up, especially after waiting for you for so long. This time, whatever this is between us, I truly want it to work.
-It’s not that I wasn’t ready. I just wanted you to really know me, all of me. I know you have your own impression of who I am, and I wanted to make sure that if you choose me, it’s because you love the real me. I just wanted you to know every side of me. Not just the version you see, but the real one, the flawed, overthinking, sometimes scared, but deeply sincere me.
-
-I’ve never imagined I could admire someone for this long, even from afar. That has never happened to me before. But with you, it did. And now, finally, feeling ko eto nay un(feelingera? lol).
 I don’t even know if I’m doing this right. But all I really want to say is this…
 I can finally say it without holding back.
 Mahal kita. 
+
 
 💕`;
     
@@ -274,19 +273,18 @@ function skipTypewriter() {
         const messageContent = document.querySelector('.message-content');
         if (messageContent) {
             const fullMessage = `Hi baby,
-I honestly don’t know where to start. This is the first time I’m writing you a letter like this. Yung mga nasulat ko kasi noon about sayo pang broken eh hahaha, I mean never something this sincere, this hopeful. But this one feels different.
-I really wanted to give this to you in person. You know I had a plan naman talaga sabi ko nga sayo. I even wanted it to be on the 22nd, you know why. I was planning to drop by today, even just for a little while, pero yun nga dahil sa injury ko, I couldn’t. I just couldn’t delay this any longer. I didn’t want to wait another day without telling you how I feel.
+I honestly don’t know where to start. This is the first time I’m writing you a letter like this. Yung mga nasulat ko kasi noon about sayo pang broken eh hahaha, I mean iba naman this time like ano something sincere, hopeful. 
+I really wanted to give this to you in person. You know I had a plan naman talaga sabi ko nga sayo. Gusto ko 22, lam mo na kung baqet. I was planning to drop by today, even just for a little while, pero yun nga dahil sa injury ko, I couldn’t. I just couldn’t delay this any longer. I didn’t want to wait another day without telling you how I feel.
 I want you. And I love you.
 
-I’m sorry it took me this long to say it. Sa totoo lang, I’m not afraid to express what I feel. But this is you. 
+I’m sorry it took me this long to say it. Sa totoo lang, I’m not afraid to express what I feel. Pero ikaw yan e. You matter so much to me. I didn’t want to mess this up, especially after waiting for you for so long. This time, whatever this is between us, I truly want it to work.
+It’s not that I wasn’t ready. I just wanted you to really know me, all of me. I know you have your own impression of who I am, and ano gusto ko lang talaga mas makilala mo ko. I just wanted you to know every side of me. Not just the version you see, but the real one, the flawed, overthinking, sometimes scared, but deeply sincere me.
+I’ve never imagined I could admire someone for this long, even from afar(hahaha?). That has never happened to me before.  Pero ayun boogsh haha. And now finally, feeling ko eto na yun (feelingera? lol).
 
-You matter so much to me. I didn’t want to mess this up, especially after waiting for you for so long. This time, whatever this is between us, I truly want it to work.
-It’s not that I wasn’t ready. I just wanted you to really know me, all of me. I know you have your own impression of who I am, and I wanted to make sure that if you choose me, it’s because you love the real me. I just wanted you to know every side of me. Not just the version you see, but the real one, the flawed, overthinking, sometimes scared, but deeply sincere me.
-
-I’ve never imagined I could admire someone for this long, even from afar. That has never happened to me before. But with you, it did. And now, finally, feeling ko eto nay un(feelingera? lol).
 I don’t even know if I’m doing this right. But all I really want to say is this…
 I can finally say it without holding back.
 Mahal kita. 
+
 
 💕`;
             messageContent.innerHTML = fullMessage;
