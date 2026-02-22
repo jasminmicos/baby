@@ -369,7 +369,7 @@ function startPhotoShow() {
         },
         {
             text: 'Perfect Day ☀️',
-            image: './images/photo7.jpg'
+            image: 'photo7.jpg'
         },
         {
             text: 'fav 💖',
